@@ -1,4 +1,4 @@
-👉 [See Live Demo](https://shiny-platypus-e27ede.netlify.app/)
+👉 [See Live Demo](https://samnickgammer-netflixclone.netlify.app/)
 
 ## Stack Used :-
 
